@@ -1,10 +1,20 @@
-## Hi there 👋
+<h1>Hello, I'm Eve! <br/><a href="">Recent Graduate</a>, <a href=""> Aspiring Cyber Security Professional</a>, <a href="https://www.goodreads.com/user/show/145294382-yves"> and Avid Sci-Fi Reader</a></h1>
+
+<h2>Software Development Projects</h2>
+- <b>pdf2questions</b>
+  - [](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>JumpQuest</b>
+  - [](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Nemesis Lockdown Companion Application</b>
+  - [](https://github.com/joshmadakor1/Algorithms-Practice)
+
+ <h2>Mechanical Engineering Technology Projects</h2>
+- <b>3D Handheld Fan)</b>
+  - [](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <!--
 **yevesevey/yevesevey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
